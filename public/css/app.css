@@ -1,0 +1,28 @@
+.navbar {
+  height: 55px;
+}
+
+.navbar .nav-item .fas,
+.navbar .nav-item .far {
+  font-size: 1.5em;
+}
+
+.card .card-header {
+  padding: 0.5rem 1rem !important;
+}
+
+.profile-image-small {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.profile-image-md {
+  height: 4rem;
+  width: 4rem;
+}
+
+.profile-image {
+  height: 10rem;
+  width: 10rem;
+}
+

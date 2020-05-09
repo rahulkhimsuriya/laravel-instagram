@@ -1,0 +1,41 @@
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+
+.navbar {
+  height: 55px;
+
+  .nav-item {
+
+    .fas,
+    .far {
+      font-size: 1.5em;
+    }
+  }
+}
+
+.card {
+  .card-header {
+    padding: 0.5rem 1rem !important;
+  }
+}
+
+.profile-image-small {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.profile-image-md {
+  height: 4rem;
+  width: 4rem;
+}
+
+.profile-image {
+  height: 10rem;
+  width: 10rem;
+}
